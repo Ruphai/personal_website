@@ -11,7 +11,7 @@ role: Earth Observation Data Scientist
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of South Brittany
-    url: [University of South Brittany](https://www.univ-ubs.fr/en/index.html)
+    url: https://www.univ-ubs.fr/en/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: Research Interest: Earth Observation, Machine Learning, and Scalable EO Processing
