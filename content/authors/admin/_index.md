@@ -14,13 +14,13 @@ organizations:
     url: https://www.univ-ubs.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Earth Observation Science, Artificial Intelligence and Cloud-native earth observation.
 
 # Interests to show in About widget
 interests:
+  - Earth Observation Science
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cloud-native EO Processing
 
 # Education to show in About widget
 education:
