@@ -26,13 +26,13 @@ interests:
 education:
   courses:
     - course: MSc in GeoData Science
-      institution: University of South Brittany, Vannes, France
+      institution: University of South Brittany
       year: 2022
     - course: MSc in Earth Observation and Geoinformatics
-      institution: University of Salzburg, Austria
+      institution: University of Salzburg
       year: 2022
     - course: BSc in Meteorology and Climate Science
-      institution: Federal University of Technology, Akure
+      institution: Federal University of Technology Akure
       year: 2019
 
 # Social/Academic Networking
@@ -70,7 +70,7 @@ email: ''
 highlight_name: true
 ---
 
-Rufai Balogun is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rufai Balogun is an Earth Observation Data Scientist utilizing the trio tools of data, technologies and human resource to drive sustainable development. For research, he focuses on anticipatory action, climate science and earth observation science as well scalable earth observation processing system.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
