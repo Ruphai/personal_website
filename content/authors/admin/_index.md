@@ -10,11 +10,11 @@ role: Earth Observation Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of South Brittany
+- name: University of South Brittany
     url: [University of South Brittany](https://www.univ-ubs.fr/en/index.html)
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Interest: Earth Observation, Machine Learning, and Scalable EO Processing.
+bio: Research Interest: Earth Observation, Machine Learning, and Scalable EO Processing
 
 # Interests to show in About widget
 interests:
@@ -71,10 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-Rufai Balogun is an Earth Observation Data Scientist. His research interests include ... 
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
+Rufai Balogun is an Earth Observation Data Scientist. His research interests include
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
