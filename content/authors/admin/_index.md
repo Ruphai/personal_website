@@ -70,8 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-Rufai Balogun is an Earth Observation Data Scientist utilizing the trio tools of data, technologies and human resource to drive sustainable development. For research, he focuses on anticipatory action, climate science and earth observation science as well scalable earth observation processing system.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Rufai Balogun is an Earth Observation Data Scientist working at the intersection of Earth Observation for Sustainable Development including Anticipatory Action, Climate Science and Humanitarian Crisis. He has a background in Meteorology and Climate Science from the Federal University of Technology, Akure. He is a graduate of the Erasmus Mundus Joint Masters’ Degree in Copernicus Masters’ in Digital Earth with a specialization in Geo-Data Science from the University of Salzburg, Austria and the University of South Brittany, France.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
