@@ -72,4 +72,4 @@ highlight_name: true
 
 Rufai Balogun is an Earth Observation Data Scientist working at the intersection of Earth Observation for Sustainable Development including Anticipatory Action, Climate Science and Humanitarian Crisis. He has a background in Meteorology and Climate Science from the Federal University of Technology, Akure. He is a graduate of the Erasmus Mundus Joint Masters’ Degree in Copernicus Masters’ in Digital Earth with a specialization in Geo-Data Science from the University of Salzburg, Austria and the University of South Brittany, France.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
