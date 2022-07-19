@@ -54,7 +54,7 @@ experience:
     location: Nigeria
     date_start: '2020-01-07'
     date_end: '2020-08-15'
-    description: Led research work on urban land dynamics, malaria vulnerability mapping using multi-criteria decision analysis, visual analysis of seasonal sea-surface temperature change
+    description: Led research work on urban land dynamics, malaria vulnerability mapping using multi-criteria decision analysis, visual analysis of seasonal sea surface temperature change
     
   - title: Research Intern
     company: National Space Research and Development Agency
