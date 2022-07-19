@@ -21,8 +21,9 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: Research Partner 
+  - title: Research Partner
     company: SixthAvis Ltd
     company_url: ''
     company_logo: org-gc
@@ -40,8 +41,8 @@ experience:
     date_start: '2021-07-05'
     date_end: '2021-09-20'
     description: Researched, reviewed, and implemented a workflow for individual tree-top identification and extracted their corresponding crowns from Aerial imageries using the one-stage object detector, RetinaNet
-    description: |2-
-       Responsibilities include:
+   # description: |2-
+    #   Responsibilities include:
     #    * Analysing
     #   * Modelling
     #    * Deploying
@@ -54,7 +55,6 @@ experience:
     date_start: '2020-01-07'
     date_end: '2020-08-15'
     description: Led research work on urban land dynamics, malaria vulnerability mapping using multi-criteria decision analysis, visual analysis of seasonal sea-surface temperature change
-
   - title: Research Intern
     company: National Space Research and Development Agency
     company_url: ''
