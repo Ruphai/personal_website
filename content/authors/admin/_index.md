@@ -25,11 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in GeoData Science
-      institution: University of South Brittany
-      year: 2022
-    - course: MSc in Earth Observation and Geoinformatics
-      institution: University of Salzburg
+    - course: MSc in Copernicus Master in Digital Earth (Specialization: Geo Data Science)
+      institution: University of Salzburg and University of South Brittany
       year: 2022
     - course: BSc in Meteorology and Climate Science
       institution: Federal University of Technology Akure
