@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 70%
+  - description: 85%
     icon: r-project
     icon_pack: fab
     name: Remote Sensing
@@ -24,19 +24,19 @@ feature:
     icon: r-project
     icon_pack: fab
     name: Geographic Information System
-  - description: 80%
+  - description: 70%
     icon: r-project
     icon_pack: fab
     name: Data Science
-  - description: 70%
+  - description: 60%
     icon: chart-line
     icon_pack: fas
     name: Cloud Computing
-  - description: 50%
+  - description: 65%
     icon: camera-retro
     icon_pack: fas
     name: High Performance Computing
-  - description: 50%
+  - description: 75%
     icon: camera-retro
     icon_pack: fas
     name: Python Programming
