@@ -18,7 +18,8 @@ bio: My research interests include Earth Observation Science, Artificial Intelli
 
 # Interests to show in About widget
 interests:
-  - Earth Observation Science
+  - Climate Science
+  - Earth Observation 
   - Artificial Intelligence
   - Cloud-native EO Processing
 
