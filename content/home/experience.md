@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Nigeria
     date_start: '2020-05-20'
-    date_end: ''
+    date_end: '2021-12-20'
     description: A member of an early career research group selected to develop the EARWAC dashboard, a research demonstrator funded by the European Space Agency
     Future Earth Joint Program to foster data-driven adaptation and resilience against coastal multi-hazards in the West African coast
     
@@ -42,12 +42,11 @@ experience:
     description: Researched, reviewed, and implemented a workflow for individual tree-top identification and extracted their corresponding crowns from Aerial imageries using the one-stage object detector, RetinaNet
     # description: |2-
     #    Responsibilities include:
-        
     #    * Analysing
     #   * Modelling
     #    * Deploying
     
-   - title: Geospatial Analyst
+  - title: Geospatial Analyst
     company: Center for Space Research and Applications
     company_url: ''
     company_logo: org-gc
