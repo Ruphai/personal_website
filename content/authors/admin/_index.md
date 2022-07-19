@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Copernicus Master in Digital Earth (Specialization: Geo Data Science)
+    - course: MSc in Copernicus Master in Digital Earth with specialization in Geo Data Science
       institution: University of Salzburg and University of South Brittany
       year: 2022
     - course: BSc in Meteorology and Climate Science
