@@ -19,27 +19,27 @@ feature:
   - description: 70%
     icon: r-project
     icon_pack: fab
-    name: Python Programming
-  - description: 80%
-    icon: r-project
-    icon_pack: fab
-    name: Shell Scripting
-  - description: 80%
-    icon: r-project
-    icon_pack: fab
     name: Remote Sensing
+  - description: 80%
+    icon: r-project
+    icon_pack: fab
+    name: Geographic Information System
+  - description: 80%
+    icon: r-project
+    icon_pack: fab
+    name: Data Science
   - description: 70%
     icon: chart-line
-    icon_pack: fas
-    name: Machine Learning
-  - description: 50%
-    icon: camera-retro
     icon_pack: fas
     name: Cloud Computing
   - description: 50%
     icon: camera-retro
     icon_pack: fas
     name: High Performance Computing
+  - description: 50%
+    icon: camera-retro
+    icon_pack: fas
+    name: Python Programming
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
