@@ -28,9 +28,9 @@ experience:
     company_logo: org-gc
     location: Nigeria
     date_start: '2020-05-20'
-    date_end:
+    date_end: ''
     description: A member of an early career research group selected to develop the EARWAC dashboard, a research demonstrator funded by the European Space Agency
-    Future Earth Joint Program to foster data-driven adaptation and resilience against coastal multi-hazards in the West African coast. 
+    Future Earth Joint Program to foster data-driven adaptation and resilience against coastal multi-hazards in the West African coast
     
   - title: Geospatial Analyst
     company: Space4Good
@@ -54,7 +54,7 @@ experience:
     location: Nigeria
     date_start: '2020-01-07'
     date_end: '2020-08-15'
-    description: Led research work on urban land dynamics, malaria vulnerability mapping using multi-criteria decision analysis, visual analysis of seasonal sea-surface temperature change.
+    description: Led research work on urban land dynamics, malaria vulnerability mapping using multi-criteria decision analysis, visual analysis of seasonal sea-surface temperature change
 
   - title: Research Intern
     company: National Space Research and Development Agency
@@ -63,7 +63,7 @@ experience:
     location: Nigeria
     date_start: '2018-06-19'
     date_end: '2018-12-01'
-    description: Supported researchers to on diverse projects ranging from Urban Heat Islands, Drought and Flooding, Disease Mapping and Geomorphology. Participated, taught, and supported in organizing the monthly Remote Sensing and GIS Training hosted by the Agency in partnership with other organizations and new interns. 
+    description: Supported researchers to on diverse projects ranging from Urban Heat Islands, Drought and Flooding, Disease Mapping and Geomorphology. Participated, taught, and supported in organizing the monthly Remote Sensing and GIS Training hosted by the Agency in partnership with other organizations and new interns
 
 design:
   columns: '2'
